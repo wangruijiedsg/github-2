@@ -1,6 +1,6 @@
 package week3;
 import java.util.Random;
-public class Ëæ»úÔÂ·İ {
+public class yuefen {
 	public static void main(String[] args) {
 		Random r = new Random();
         int x=r.nextInt(12);
